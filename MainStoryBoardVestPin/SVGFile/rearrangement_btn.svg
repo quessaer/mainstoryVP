@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="rearrangement_btn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 63 27"
+     style="enable-background:new 0 0 63 27;" xml:space="preserve">
+<style type="text/css">
+    .st0{display:none;fill:#707070;}
+    .st1{fill:#383838;}
+</style>
+<switch>
+    <g>
+        <polygon class="st0" points="27,0 23.5,0 0,0 0,27 23.5,27 27,27 63,27 63,0         "/>
+        <g>
+            <path class="st1" d="M17.5,10.5c0,2.3,0.8,4.4,2.6,5.3l-0.8,1.1c-1.2-0.7-2-1.8-2.5-3.2c-0.4,1.6-1.2,2.9-2.5,3.6l-0.9-1.1
+                c1.8-1.1,2.6-3.3,2.6-5.8V9.8h-2.3V8.6h5.8v1.2h-2.1V10.5z M24.5,7.2v12.7h-1.4v-6.5h-1.4v5.9h-1.4V7.4h1.4v4.8h1.4v-5H24.5z"/>
+            <path class="st1" d="M30.1,8.3h1.3v8.4h-4.9V8.3h1.4v3h2.2V8.3z M30.1,12.5h-2.2v3.1h2.2V12.5z M36.9,7.2v12.6h-1.4v-6.5h-1.4v6
+                h-1.4V7.4h1.4v4.7h1.4V7.2L36.9,7.2z"/>
+            <path class="st1" d="M44.7,12.3c-0.6,0.7-1.5,1.1-2.6,1.1c-1.9,0-3.3-1.2-3.3-2.9c0-1.7,1.4-2.9,3.3-2.9c1.1,0,2,0.4,2.6,1h3V7.2
+                h1.5v6.4h-1.5v-1.3H44.7z M42.1,12.2c1.1,0,1.9-0.7,1.9-1.7c0-1-0.8-1.7-1.9-1.7c-1.1,0-1.9,0.7-1.9,1.7
+                C40.2,11.5,41,12.2,42.1,12.2z M49.6,18.5v1.1h-8.6v-3.3h6.8v-1h-6.8v-1.1h8.2v3.2h-6.8v1.1H49.6z M45.3,9.7
+                c0.1,0.2,0.1,0.5,0.1,0.8c0,0.2,0,0.5-0.1,0.7h2.4V9.7H45.3z"/>
+        </g>
+    </g>
+</switch>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" id="number_4"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 27 27"
+	 style="enable-background:new 0 0 27 27;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#707070;}
+</style>
+<switch>
+	<g>
+		<rect class="st0" width="27" height="27"/>
+		<g>
+			<path d="M19.7,18.6h-1.9v4.1h-3.5v-4.1h-7v-3.1l6.5-11.2h4v11.5h1.9V18.6z M14.3,15.8V7.9h0l-4.4,7.9H14.3z"/>
+		</g>
+	</g>
+</switch>
+</svg>
